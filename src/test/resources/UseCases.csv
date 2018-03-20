@@ -1,0 +1,37 @@
+Name,Base,Toppings,Price,BakingTime,FreeDrink
+Margherita,Regular,,15,12,N
+Margherita,Extra Thick,,18,15,N
+Margherita,Cheezy Crust,,20,14,N
+Margherita,Gluten Free,,18,13,N
+Vegetarian,Regular,Green Pepper;Onion;Mushroom,18,12,N
+Vegetarian,Extra Thick,Green Pepper;Onion;Mushroom,21,15,N
+Vegetarian,Cheezy Crust,Green Pepper;Onion;Mushroom,23,14,N
+Vegetarian,Gluten Free,Green Pepper;Onion;Mushroom,21,13,N
+Greek,Regular,Olive;Feta Cheese,18,12,N
+Greek,Extra Thick,Olive;Feta Cheese,21,15,N
+Greek,Cheezy Crust,Olive;Feta Cheese,23,14,N
+Greek,Gluten Free,Olive;Feta Cheese,21,13,N
+Mexican,Regular,Corn;Chilli,17,12,N
+Mexican,Extra Thick,Corn;Chilli,20,15,N
+Mexican,Cheezy Crust,Corn;Chilli,22,14,N
+Mexican,Gluten Free,Corn;Chilli,20,13,N
+Hawaiian,Regular,Pineapple;Green Pepper,19,12,N
+Hawaiian,Extra Thick,Pineapple;Green Pepper,22,15,N
+Hawaiian,Cheezy Crust,Pineapple;Green Pepper,24,14,N
+Hawaiian,Gluten Free,Pineapple;Green Pepper,22,13,N
+Mushroom,Regular,Mushroom,16,12,N
+Mushroom,Extra Thick,Mushroom,19,15,N
+Mushroom,Cheezy Crust,Mushroom,21,14,N
+Mushroom,Gluten Free,Mushroom,19,13,N
+Olive,Regular,Olive,16,12,N
+Olive,Extra Thick,Olive,19,15,N
+Olive,Cheezy Crust,Olive,21,14,N
+Olive,Gluten Free,Olive,19,13,N
+Build Your Own 2 Toppings,Regular,Extra Cheese;Onion,19,12,N
+Build Your Own 2 Toppings,Extra Thick,Extra Cheese;Onion,22,15,N
+Build Your Own 2 Toppings,Cheezy Crust,Extra Cheese;Onion,24,14,N
+Build Your Own 2 Toppings,Gluten Free,Extra Cheese;Onion,22,13,N
+Build Your Own 4 Toppings,Regular,Extra Cheese;Feta Cheese;Pineapple;Mushroom,24,12,N
+Build Your Own 4 Toppings,Extra Thick,Extra Cheese;Feta Cheese;Pineapple;Mushroom,27,15,Y
+Build Your Own 4 Toppings,Cheezy Crust,Extra Cheese;Feta Cheese;Pineapple;Mushroom,29,14,Y
+Build Your Own 4 Toppings,Gluten Free,Extra Cheese;Feta Cheese;Pineapple;Mushroom,27,13,Y
