@@ -2,7 +2,7 @@ package com.pizzashop
 
 import scala.concurrent.duration.{Duration, DurationInt}
 
-trait PizzaBuilders {
+trait PizzaMakers {
   private val defaultBase = "default"
 
   def aBase(withName: String = defaultBase, withPrice: BigDecimal = 20.00, withBakingTime: Duration = 10.minutes) =
