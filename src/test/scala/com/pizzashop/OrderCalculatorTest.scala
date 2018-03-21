@@ -9,7 +9,7 @@ import scala.concurrent.duration.{Duration, DurationInt}
 class OrderCalculatorTest extends Specification
   with Mockito
   with OrderMatchers
-  with PizzaBuilders {
+  with PizzaMakers {
 
   "OrderCalculator" should {
 

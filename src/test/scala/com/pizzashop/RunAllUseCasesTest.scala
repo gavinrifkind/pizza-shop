@@ -7,7 +7,7 @@ import org.specs2.specification.core.Fragments
 import com.pizzashop.UseCase.apply
 
 class RunAllUseCasesTest extends Specification
-  with PizzaBuilders
+  with PizzaMakers
   with OrderMatchers {
 
   val ingredientsStore = new CsvIngredientsStore
